@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+*.crf
+*.d
+*.o
+*.lnp
+*.axf
+*.htm
+*.build_log.htm
+*.dep
+*.uvgui.*
